@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Psychology",
+    "Social Media",
+    "Well-Being",
+    "Methods & Open Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "DPhil in Experimental Psychology"
+  institution = "University of Oxford"
+  year = ""
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA (hons) in Natural Sciences"
+  institution = "University of Cambridge"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+University of Oxford psychologist Amy Orben's research tackles questions concerning one of society's most recent and widespread developments: the rise of social media. Using both data-driven and experimental methodology, she investigates how social media is shaping our relationships and influencing our well-being. She also campaigns for improving how psychologists communicate data and findings with the public and policy makers.  Amy is a Stipendiary College Lecturer in Psychology at The Queen's College and is currently in her last year of her doctorate.  She enjoys discussing about how social media might not be as bad as you expect, having appeared on platforms including BBC 2, BBC Radio 4, BBC World Service and BBC News.
