@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Department of Experimental Psychology, University of Oxford", url = "https://www.psy.ox.ac.uk/team/amy-orben" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "static/img/portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "amy.orben@psy.ox.ac.uk"
   address = ""
   office_hours = ""
@@ -243,36 +243,36 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 0
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 0
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 0
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 0
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 0
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 0
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 0
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 0
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 0
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 0
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
