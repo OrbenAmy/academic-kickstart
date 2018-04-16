@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Department of Experimental Psychology, University of Oxford", url = "https://www.psy.ox.ac.uk/team/amy-orben" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg/"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "amy.orben@psy.ox.ac.uk"
   address = ""
   office_hours = ""
