@@ -214,15 +214,16 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:amy.orben@psy.ox.ac.uk"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/OrbenAmy"
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:amy.orben@psy.ox.ac.uk"
 
   [[params.social]]
     icon = "github"
