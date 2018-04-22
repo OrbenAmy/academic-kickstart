@@ -7,7 +7,7 @@ time_end = 2018-03-25T20:30:00
 abstract = "Screens and Teens"
 abstract_short = ""
 event = "Radio Interview: Screens and Teens"
-event_url = ""
+event_url = "https://www.bbc.co.uk/programmes/b09w05zk"
 location = "London, United Kingdom"
 
 # Is this a selected talk? (true/false)
