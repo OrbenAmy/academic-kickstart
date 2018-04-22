@@ -8,6 +8,7 @@ highlight = false
 [header]
 image = ""
 caption = ""
++++
 
 Jeremy Hunt considers imposing a daily social media limit on children in a bid to address the “harmful emotional side effects of social media”, but the scientific evidence to support this drastic move does not exist. 
 
@@ -22,4 +23,4 @@ Firstly, there is no concrete evidence that supports the common view that techno
 Notwithstanding, the debate is oversimplifying the sheer diversity of technology and social media use. No individual’s social media use is the same, with the content and context changing with each use. It is therefore impossible to conclude what the universal effects of ‘social media use’ are. Want to know the true effect of X minutes of social media use on a child? The answer will almost always be “it depends”: it depends on the kind of social media use, the usage patterns, the child’s motivations and the context. Until we accept this inherent complexity in  scientific research, policy making and media coverage, our efforts to help children and teenagers will be misplaced and inefficient. 
 
 So, Jeremy Hunt, if you want to create policy on the back of your personal experience and years of misguided media coverage, go ahead, but please do not misuse ‘science’ to back it up. 
-+++
+
