@@ -250,9 +250,9 @@ defaultContentLanguageInSubdir = false
 #  weight = 0
 
 #[[menu.main]]
-#  name = "Posts"
+#  name = "Blogposts"
 #  url = "#posts"
-#  weight = 0
+#  weight = 1
 
 #[[menu.main]]
 #  name = "Projects"
