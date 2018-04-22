@@ -6,8 +6,8 @@ time_start = 2018-03-25T20:30:00
 time_end = 2018-03-25T20:30:00
 abstract = "Screens and Teens"
 abstract_short = ""
-event = "Radio Interview"
-event_url = "http://www.bbc.co.uk/programmes/b09w05zk"
+event = "Radio Interview: Screens and Teens"
+event_url = ""
 location = "London, United Kingdom"
 
 # Is this a selected talk? (true/false)
@@ -20,7 +20,7 @@ selected = true
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "http://www.bbc.co.uk/programmes/b09w05zk"
+url_audio = "http://www.bbc.co.uk/programmes/b09w05zk"
 url_code = ""
 
 # Does the content use math formatting?
