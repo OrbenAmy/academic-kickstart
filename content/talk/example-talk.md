@@ -20,7 +20,7 @@ selected = true
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_audio = "http://www.bbc.co.uk/programmes/b09w05zk"
+url_video = "http://www.bbc.co.uk/programmes/b09w05zk"
 url_code = ""
 
 # Does the content use math formatting?
