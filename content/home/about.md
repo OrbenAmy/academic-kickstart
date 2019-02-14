@@ -31,4 +31,7 @@ weight = 5
 
 # Biography
 
-University of Oxford psychologist Amy Orben's research tackles questions concerning one of society's most recent and widespread developments: the rise of social media. Using both data-driven and experimental methodology, she investigates how social media is shaping our relationships and influencing our well-being. She also campaigns for improving how psychologists communicate data and findings with the public and policy makers.  Amy is a Stipendiary College Lecturer in Psychology at The Queen's College and is currently in her last year of her doctorate.  She enjoys discussing about how social media might not be as bad as you expect, having appeared on platforms including BBC 2, BBC Radio 4, BBC World Service and BBC News.
+Amy's research uses large-scale data to examine how digital technologies affect adolescent psychological well-being and mental health. She uses innovative and rigorous statistical methodology to shed new light on pressing questions debated in policy, parenting and mental health. She also campaigns for better communication of trends in data and the wider adoption of Open Science. 
+
+Amy is a Stipendiary College Lecturer in Psychology at The Queen's College and currently in her last year of her doctorate. In October 2019 she will join Emmanuel College Cambridge, as a College Research Fellow. 
+
