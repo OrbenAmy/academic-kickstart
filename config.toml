@@ -231,9 +231,20 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/orbenamy"
 
   [[params.social]]
-    icon = "orcid"
+    icon = "cv"
     icon_pack = "ai"
     link = "//www.amyorben.com/docs/cv_orben.pdf"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-2937-4183"
+
+  [[params.social]]
+    icon = "osf"
+    icon_pack = "ai"
+    link = "//osf.io/kq92m/"
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
