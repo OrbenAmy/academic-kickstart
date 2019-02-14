@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-My CV is available in [PDF](cv/cv.pdf) form.
+My CV is available in [PDF](content/cv/cv.pdf) form.
