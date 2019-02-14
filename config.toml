@@ -251,7 +251,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "/content/cv/cv.pdf"
+  url = "/static/pdf/cv.pdf"
   weight= 2
 
 #[[menu.main]]
