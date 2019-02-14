@@ -233,7 +233,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "https://www.amyorben.com/docs/cv_orben.pdf"
+    link = "//www.amyorben.com/docs/cv_orben.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
