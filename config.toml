@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://amyorben.github.io/"
+baseurl = "https://amyorben.com/"
 
 # Title of your site
 title = "Amy Orben"
@@ -244,10 +244,15 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 0
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 0
+
+[[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight= 2
 
 #[[menu.main]]
 #  name = "Blogposts"
