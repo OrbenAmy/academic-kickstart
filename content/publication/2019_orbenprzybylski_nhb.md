@@ -13,6 +13,6 @@ url_pdf = "pdf/2019_orbenprzybylski_nhb.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_custom = [{name = "Editorial", url = "//www.nature.com/articles/d41586-019-00137-6"},
-              {name = "Blog", url = "//socialsciences.nature.com/users/200472-amy-orben/posts/42763-beyond-cherry-picking"}]
+url_custom = [{name = "Editorial", url = "http://www.nature.com/articles/d41586-019-00137-6"},
+              {name = "Blog", url = "http://socialsciences.nature.com/users/200472-amy-orben/posts/42763-beyond-cherry-picking"}]
 +++
