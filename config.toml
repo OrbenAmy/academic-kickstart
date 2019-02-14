@@ -231,7 +231,7 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/orbenamy"
 
   [[params.social]]
-    icon = "CV"
+    icon = "ceur"
     icon_pack = "ai"
     link = "//www.amyorben.com/docs/cv_orben.pdf"
 
