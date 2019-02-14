@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-My CV is available in [here](static/docs/cv_orben.pdf).
+My CV is available [here](https://www.amyorben.com/docs/cv_orben.pdf).
