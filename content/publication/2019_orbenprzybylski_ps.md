@@ -1,12 +1,12 @@
 +++
-abstract = "An abstract..."
+abstract = "Posted when published"
 authors = ["Amy Orben", "Andrew K. Przybylski"]
-date = "2019-01-28"
+date = "2019-02-20"
 image = ""
 image_preview = ""
 math = false
 publication = "Psychological Science (in press)"
-title = "Teens and Screens: Evidence from two exploratory and one confirmatory experience sampling studies."
+title = "Teens and Screens: Evidence from two exploratory and one confirmatory experience sampling studies"
 url_code = ""
 url_dataset = ""
 url_pdf = "f"
