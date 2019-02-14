@@ -231,10 +231,9 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/orbenamy"
 
   [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
+    icon = "github"
+    icon_pack = "fa"
     link = "//www.amyorben.com/docs/cv_orben.pdf"
-
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -248,10 +247,10 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 0
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 0
 
 [[menu.main]]
   name = "CV"
