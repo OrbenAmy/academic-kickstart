@@ -23,7 +23,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "BA (hons) in Natural Sciences"
+  course = "BA in Natural Sciences"
   institution = "University of Cambridge"
   year = 2015
  
