@@ -231,8 +231,8 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/orbenamy"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
+    icon = "orcid"
+    icon_pack = "ai"
     link = "//www.amyorben.com/docs/cv_orben.pdf"
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
