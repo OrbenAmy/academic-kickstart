@@ -14,5 +14,5 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_custom = [{name = "Editorial", url = "http://www.nature.com/articles/d41586-019-00137-6"},
-              {name = "Blog", url = "http://socialsciences.nature.com/users/200472-amy-orben/posts/42763-beyond-cherry-picking"}, {name = "Supplementary", url = "https://www.nature.com/articles/s41562-018-0506-1#Sec22"}]
+              {name = "Blog", url = "http://socialsciences.nature.com/users/200472-amy-orben/posts/42763-beyond-cherry-picking"}, {name = "Supp", url = "https://www.nature.com/articles/s41562-018-0506-1#Sec22"}]
 +++
