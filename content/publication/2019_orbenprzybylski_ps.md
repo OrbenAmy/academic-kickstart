@@ -13,4 +13,5 @@ url_pdf = "pdf/2019_orbenprzybylski_ps.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_custom = [{name = "Supp", url = "https://journals.sagepub.com/doi/suppl/10.1177/0956797619830329"}]
 +++
