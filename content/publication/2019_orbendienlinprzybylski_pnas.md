@@ -10,8 +10,8 @@ title = "Social medias enduring effect on adolescent life satisfaction"
 url_code = "https://osf.io/4xp3v/"
 url_dataset = ""
 url_pdf = "pdf/2019_orbendienlinprzybylski_pnas.pdf"
-url_project = "
+url_project = ""
 url_slides = ""
 url_video = ""
-url_custom = [{name = "Supp", url = "https://osf.io/4xp3v/"}]
+url_custom = [{name = "Supp", url = "https://osf.io/4xp3v"}]
 +++
