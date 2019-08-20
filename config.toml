@@ -223,7 +223,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:amy.orben@psy.ox.ac.uk"
+    link = "mailto:aco35@cam.ac.uk"
 
   [[params.social]]
     icon = "github"
