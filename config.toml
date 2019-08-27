@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "~/Public/academic-kickstart/static/img/portrait.jpg/"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "aco35@cam.ac.uk"
+  email = "amy.orben@psy.ox.ac.uk"
   address = ""
   office_hours = ""
   phone = ""
