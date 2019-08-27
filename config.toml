@@ -51,15 +51,15 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Amy Orben"
-  role = "College Lecturer & DPhil Candidate"
+  role = "College Research Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Experimental Psychology, University of Oxford", url = "https://www.psy.ox.ac.uk/team/amy-orben" } ]
+  organizations = [ { name = "Emmanuel College, University of Cambridge", url = "https://www.emma.cam.ac.uk" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "~/Public/academic-kickstart/static/img/portrait.jpg/"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "amy.orben@psy.ox.ac.uk"
+  email = "aco35@cam.ac.uk"
   address = ""
   office_hours = ""
   phone = ""
