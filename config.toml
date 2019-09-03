@@ -6,7 +6,7 @@
 baseurl = "https://amyorben.com/"
 
 # Title of your site
-title = "Amy Orben"
+title = "Dr Amy Orben"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,12 +50,12 @@ defaultContentLanguageInSubdir = false
   font = "classic"
 
   # Your details.
-  name = "Amy Orben"
+  name = "Dr Amy Orben"
   role = "College Research Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Emmanuel College, University of Cambridge", url = "https://www.emma.cam.ac.uk" } ]
+  organizations = [ { name = "Emmanuel College, University of Cambridge", url = "https://www.emma.cam.ac.uk" }, { name = "MRC Cognition and Brain Sciences Unit, University of Cambridge", url = "http://www.mrc-cbu.cam.ac.uk" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "~/Public/academic-kickstart/static/img/portrait.jpg/"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
