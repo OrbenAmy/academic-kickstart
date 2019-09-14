@@ -270,7 +270,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Thesis"
-  url = "/docs/index.html"
+  url = "/docs/thesis/index.html"
   weight= 2.5
 
 #[[menu.main]]
