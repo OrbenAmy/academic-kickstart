@@ -16,3 +16,6 @@ weight = 60
 +++
 
 My CV is available [here](https://www.amyorben.com/docs/cv_orben.pdf).
+
+The online version of my thesis is available [here](https://www.amyorben.com/docs/thesis/index.html). A citable DOI will be posted here soon. 
+
