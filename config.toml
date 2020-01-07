@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Emmanuel College, University of Cambridge", url = "https://www.emma.cam.ac.uk" }, { name = "MRC Cognition and Brain Sciences Unit, University of Cambridge", url = "http://www.mrc-cbu.cam.ac.uk" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "/static/img/profile_2_square.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "aco35@cam.ac.uk"
   address = ""
   office_hours = ""
@@ -283,10 +283,10 @@ defaultContentLanguageInSubdir = false
 #  url = "#projects"
 #  weight = 0
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 0
+[[menu.main]]
+  name = "Teaching"
+  url = "/docs/20200107_courseoverview.pdf"
+  weight = 0
 
 #[[menu.main]]
 #  name = "Contact"
