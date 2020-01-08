@@ -285,7 +285,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Teaching"
-  url = "/docs/20200107_courseoverview.pdf"
+  url = "/docs/syllabus.pdf"
   weight = 0
 
 #[[menu.main]]
