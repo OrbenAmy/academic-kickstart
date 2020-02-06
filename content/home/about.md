@@ -35,5 +35,3 @@ Amy's research uses large-scale data to examine how digital technologies affect 
 
 Amy is a College Research Fellow at Emmanuel College, University of Cambridge, and a Research Fellow at the MRC Cognition and Brain Sciences Unit, University of Cambridge.
 
-Currently taking my Psychology as a Robust Science Course? Please give me feedback here:  https://forms.gle/cL9wnXRj3ZxRVTMD9
-
