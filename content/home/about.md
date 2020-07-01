@@ -33,5 +33,7 @@ weight = 5
 
 Amy's research uses large-scale data to examine how digital technologies affect adolescent psychological well-being and mental health. She uses innovative and rigorous statistical methodology to shed new light on pressing questions debated in policy, parenting and mental health. She also campaigns for better communication of trends in data and the wider adoption of Open Science. 
 
-Amy is a College Research Fellow at Emmanuel College, University of Cambridge, and a Research Fellow at the MRC Cognition and Brain Sciences Unit, University of Cambridge. She completed an MA in Natural Sciences at the University of Cambridge before joining the University of Oxford to obtain her DPhil in Experimental Psychology, for which she was award the BPS Award for Outstanding Doctoral Research 2019 and the Understanding Society Young Researcher Prize 2019. During her time at Oxford she was also nominated for the ‘Best Tutor’ award at the Oxford Student Union’s Annual Teaching Awards.
+Amy is a College Research Fellow at Emmanuel College, University of Cambridge, and a Research Fellow at the MRC Cognition and Brain Sciences Unit, University of Cambridge. 
+
+She completed an MA in Natural Sciences at the University of Cambridge before joining the University of Oxford to obtain her DPhil in Experimental Psychology, for which she was award the BPS Award for Outstanding Doctoral Research 2019 and the Understanding Society Young Researcher Prize 2019. During her time at Oxford she was also nominated for the ‘Best Tutor’ award at the Oxford Student Union’s Annual Teaching Awards.
 
