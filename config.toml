@@ -270,7 +270,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Group"
-  url = "//orben.group"
+  url = "https://orben.group"
   weight= 2.5
   
 [[menu.main]]
