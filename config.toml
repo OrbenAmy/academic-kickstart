@@ -267,11 +267,6 @@ defaultContentLanguageInSubdir = false
   name = "CV"
   url = "/docs/cv_orben.pdf"
   weight= 2.5
-
-[[menu.main]]
-  name = "Group"
-  link = "//www.spiegel.de"
-  weight= 2.5
   
 [[menu.main]]
   name = "Thesis"
