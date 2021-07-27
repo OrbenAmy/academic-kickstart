@@ -269,6 +269,11 @@ defaultContentLanguageInSubdir = false
   weight= 2.5
 
 [[menu.main]]
+  name = "Group"
+  url = "//orben.group"
+  weight= 2.5
+  
+[[menu.main]]
   name = "Thesis"
   url = "/docs/thesis/index.html"
   weight= 2.5
