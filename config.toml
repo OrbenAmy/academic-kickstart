@@ -270,7 +270,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Group"
-  url = "//www.orben.group"
+  link = "//www.spiegel.de"
   weight= 2.5
   
 [[menu.main]]
