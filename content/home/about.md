@@ -33,6 +33,6 @@ weight = 5
 
 # Biography
 
-Amy is a Programme Leader Track Scientist at the MRC Cognition and Brain Sciences Unit, University of Cambridge and a Research Fellow at Emmanuel College, University of Cambridge. She leads the Digital Mental Health Group at the University of Cambridge, for more information see: [www.digitalmentalhealth.group](www.digitalmentalhealth.group)
+Amy is a Programme Leader Track Scientist at the MRC Cognition and Brain Sciences Unit, University of Cambridge and a Research Fellow at Emmanuel College, University of Cambridge. She leads the Digital Mental Health Group at the University of Cambridge, for more information see: [Digital Mental Health Group](https://www.digitalmentalhealth.group)
 
 Amy's research uses large-scale data to examine how digital technologies affect adolescent psychological well-being and mental health. She uses innovative and rigorous statistical methodology to shed new light on pressing questions debated in policy, parenting and mental health. Amy also campaigns for better communication of trends in data and the wider adoption of Open Science. 
