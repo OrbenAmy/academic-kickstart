@@ -257,6 +257,11 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+ [[menu.main]]
+  name = "Group"
+  url = "//orben.group"
+  weight = 1
 
 #[[menu.main]]
 #  name = "Publications"
