@@ -39,6 +39,6 @@ Her programme's research examines how digital technologies affect adolescent psy
 
 Amy is a member of the UK Department for Digital, Culture, Media and Sport "College of Experts" giving direct advice to government, as well as the British Academy Public Policy Committee. She also sits on the University of Cambridge Open Research Steering Committee and the ESRC New and Emerging Forms of Data Leadership Group. Amy has won the British Neuroscience Association Researcher Credibility Prize,  the Society for the Improvement of Psychological Science Mission Award and the UK Reproducibility Network Dorothy Bishop Early Career Researcher Prize for her work to improve scientific practices. 
 
-At both the University of Oxford and the University of Cambridge Amy has received nominations for student-led teaching awards (Categories: "Best Tutor" and "Working in Partnership with Students" respectively).
+At both the University of Oxford and the University of Cambridge Amy has received nominations for student-led teaching awards.
 
 Previous to joining the MRC CBU, Amy completed an MA in Natural Sciences at the University of Cambridge before joining the University of Oxford to obtain her DPhil in Experimental Psychology, for which she was award the BPS Award for Outstanding Doctoral Research 2019 and the Understanding Society Young Researcher Prize 2019. 
