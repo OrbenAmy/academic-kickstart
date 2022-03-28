@@ -6,9 +6,8 @@ image = ""
 image_preview = ""
 math = false
 publication = "Nature Communications, https://doi.org/10.1038/s41467-022-29296-3"
-title = "Windows of developmental sensitivity to social
-media"
-url_code = ""
+title = "Windows of developmental sensitivity to social media"
+url_code = "//osf.io/fzspx/"
 url_dataset = ""
 url_pdf = "pdf/2022_OrbenEtAl_NC.pdf"
 url_project = ""
